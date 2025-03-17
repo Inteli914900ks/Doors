@@ -1,0 +1,3 @@
+local p = game.Players.LocalPlayer.Character.Humanoid
+
+p.Health = 0
